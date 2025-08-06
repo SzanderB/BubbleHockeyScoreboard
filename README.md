@@ -2,7 +2,7 @@
 Custom manufactured Bubble Hockey (or any goal related game) Scoreboard from schematic to case!
 This includes Version 1 (just PCB for a class) and Version 2 (changed design and fully built out to finished product)
 
-Video link: 
+Video link: https://youtu.be/nwzQTY0Y3hk
 
 ## Description
 Fully custom scoreboard. It will automatically tally points when puck goes through the net, play audio corresponding to events in the game, select different game modes to play, such as to a set score or time limit. Version 2 also controls external LEDs for ambiance and light, and finally is containied in a easily modifiable and removable box that mounts to the table.
