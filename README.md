@@ -4,7 +4,7 @@
 [🎥 Video Demo](https://youtu.be/nwzQTY0Y3hk)
 
 ## Overview
-A fully custom-manufactured scoreboard for a bubble hockey table (or any goal-based game), built from schematic design to a finished 3D-printed enclosure. Tracks goals automatically, plays audio cues, and supports multiple game modes.  
+A fully custom scoreboard for a bubble hockey table (or any goal-based game), built from schematic design to a finished 3D-printed enclosure. Tracks goals automatically, plays audio cues, and supports multiple game modes.  
 Includes two versions:
 - **V1** – PCB-only prototype for a class project
 - **V2** – Redesigned, fully integrated product with mechanical housing
